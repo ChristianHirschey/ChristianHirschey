@@ -1,8 +1,9 @@
 ## Christian Hirschey
 
-<!--
-intro paragraph
--->
+<!-- intro paragraph -->
+
+
+---
 
 ### Languages and Tools
 
