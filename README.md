@@ -22,6 +22,3 @@ In my free time, I love to code and play the drums, whether for a rock band, a j
 <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <br>
 <br />
-
-### Stats
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianHirschey)](https://github.com/anuraghazra/github-readme-stats)
