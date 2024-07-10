@@ -6,7 +6,7 @@ Outside of my studies and programming, I am an ACT, Mathematics, and History tut
 
 In my free time, I am passionate about fitness and self-improvement, love to code, and enjoy playing the drums, whether for a rock band, a jazz band, or even a bagpipe band.
 
-My top skills include C++, Python (Pandas, Tensorflow), React, JavaScript, Java, and SQL.
+My top skills include C++, Python (Pandas, Tensorflow), React, JavaScript, HTML/CSS, Java, and SQL.
 
 If you have any questions or would like to get in contact with me, feel free to message me on [LinkedIn](https://www.linkedin.com/in/christianhirschey/) or email me at cjhirschey@crimson.ua.edu.
 
