@@ -1,12 +1,14 @@
 ## Christian Hirschey
 
-Hi! I am Christian Hirschey, a National Merit Scholar and a 5-year Computer Science and Mathematics Statistics/MBA student at The University of Alabama interested in software engineering and data science. I am involved in the EPIC Scholars Program on campus, pursuing a minor in Engineering Positive and Intentional Change. This program has enhanced my understanding of how to apply engineering skills and concepts in an ethical and socially conscious manner.
+Hi! I am Christian Hirschey, a National Merit Scholar and a 5-year Computer Science and Mathematics Statistics/MBA student at The University of Alabama with a keen interest in software engineering and data science. I am involved in the EPIC Scholars Program on campus, pursuing a minor in Engineering Positive and Intentional Change. This program has enhanced my understanding of how to apply engineering skills and concepts in an ethical and socially conscious manner.
 
-Outside of my studies and programming, I am an ACT, Mathematics, and History tutor hoping to equip the next generation with the skills they need to thrive in higher education. Throughout my tutoring, I've managed to maintain a 100% customer satisfaction rate operating in various environments, including one-on-one sessions and large group classes ranging from 2-8 students.
+I currently work as an undergraduate research assistant in the Digital Forensics and Control Systems Security Laboratory, where I develop the PSWS (Personal Space Weather Station) website to support ionospheric research in collaboration with NASA. My role has enabled me to gain industry-relevant skills in Python, Django, Linux, and CI/CD concepts while working in an Agile/Scrum framework.
 
-In my free time, I am passionate about fitness and self-improvement, love to code, and enjoy playing the drums, whether for a rock band, a jazz band, or even a bagpipe band.
+Outside of my academic and research endeavors, I am an ACT, Mathematics, and History tutor hoping to equip the next generation with the skills they need to thrive in higher education. Throughout my tutoring, I've managed to maintain a 100% customer satisfaction rate operating in various environments, including one-on-one sessions and large group classes ranging from 2-8 students.
 
-My top skills include C++, Python (Pandas, Tensorflow), React, JavaScript, HTML/CSS, Java, and SQL.
+In my free time, I am passionate about fitness and self-improvement, love to code, and enjoy playing the drums--whether for a rock band, a jazz band, or even a bagpipe band.
+
+My top skills include C++, Python (Pandas, TensorFlow, Keras), Django, React, JavaScript, and SQL.
 
 If you have any questions or would like to get in contact with me, feel free to message me on [LinkedIn](https://www.linkedin.com/in/christianhirschey/) or email me at cjhirschey@crimson.ua.edu.
 
