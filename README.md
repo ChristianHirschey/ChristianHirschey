@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋 </h1>
+<h1 align="left">Hello!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I like using</h2>
+<h2 align="left">Technologies I use:</h2>
 
 ###
 
