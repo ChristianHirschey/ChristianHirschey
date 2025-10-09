@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning about MCP servers and operating systems<br>🧑‍💻I'm currently working on a blockchain-centric project<br>🎲 Fun fact: I play the highland snare drum in two competitive bagpipe bands!</p>
+<p align="left">📚 I'm currently learning about computer vision and AI<br>🧑‍💻I'm currently working on an NLP project<br>🎲 Fun fact: I play the highland snare drum in two competitive bagpipe bands!</p>
 
 ###
 
