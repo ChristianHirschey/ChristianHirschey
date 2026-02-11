@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently diving deeper into low-level programming concepts and C++<br>🧑‍💻 I'm currently working on a Dungeons & Dragons website in Go and Angular and an embedded passion project in C++<br>🎲 Fun fact: I play the highland snare drum in two competitive bagpipe bands!</p>
+<p align="left">I'm currently diving deeper into low-level programming concepts and C++<br>I'm currently working on expanding Spellcaster Academy, a real-time computer vision ASL education game that won the Hack for Good track at UGAHacks XI<br>Fun fact: I play the highland snare drum in two competitive bagpipe bands!</p>
 
 ###
 
